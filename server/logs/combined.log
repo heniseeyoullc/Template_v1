@@ -2,3 +2,4 @@
 {"level":"info","time":"2026-11-18T22:00:15.914Z","service":"server","env":"development","msg":"SIGINT received, shutting down gracefully…"}
 {"level":"info","time":"2026-11-18T22:00:15.916Z","service":"server","env":"development","msg":"HTTP server closed"}
 {"level":"info","time":"2026-11-18T22:00:15.917Z","service":"server","env":"development","msg":"Shutdown complete"}
+{"level":"info","time":"2026-11-22T04:07:47.420Z","service":"server","env":"development","msg":"✅ Server running at http://localhost:5001 in development mode"}

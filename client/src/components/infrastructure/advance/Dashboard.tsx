@@ -2,8 +2,14 @@ import React from "react";
 
 import { DashboardProps } from "../../../types/index.types";
 
+import Container from "../common/Container";
+
 function Dashboard({ className }: DashboardProps) {
-  return <div>{/* Dashboard component goes here */}</div>;
+  return (
+    <Container className={className}>
+      {/* Dashboard component goes here */}
+    </Container>
+  );
 }
 
 export default React.memo(Dashboard);

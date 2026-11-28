@@ -1,6 +1,7 @@
 import React from "react";
 
 import Button from "./components/infrastructure/common/Button";
+
 function App() {
   return (
     <div className="App">

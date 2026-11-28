@@ -77,3 +77,19 @@
 {"level":"info","time":"2026-11-24T00:05:45.758Z","service":"server","env":"development","msg":"SIGINT received, shutting down gracefully…"}
 {"level":"info","time":"2026-11-24T00:05:45.768Z","service":"server","env":"development","msg":"HTTP server closed"}
 {"level":"info","time":"2026-11-24T00:05:45.768Z","service":"server","env":"development","msg":"Shutdown complete"}
+{"level":"info","time":"2026-11-28T17:24:07.875Z","service":"server","env":"development","msg":"✅ Server running at http://localhost:5001 in development mode"}
+{"level":"info","time":"2026-11-28T17:25:43.022Z","service":"server","env":"development","msg":"SIGINT received, shutting down gracefully…"}
+{"level":"info","time":"2026-11-28T17:25:43.026Z","service":"server","env":"development","msg":"HTTP server closed"}
+{"level":"info","time":"2026-11-28T17:25:43.026Z","service":"server","env":"development","msg":"Shutdown complete"}
+{"level":"info","time":"2026-11-28T17:25:45.420Z","service":"server","env":"development","msg":"✅ Server running at http://localhost:5001 in development mode"}
+{"level":"info","time":"2026-11-28T17:26:56.609Z","service":"server","env":"development","msg":"SIGINT received, shutting down gracefully…"}
+{"level":"info","time":"2026-11-28T17:26:56.613Z","service":"server","env":"development","msg":"HTTP server closed"}
+{"level":"info","time":"2026-11-28T17:26:56.614Z","service":"server","env":"development","msg":"Shutdown complete"}
+{"level":"info","time":"2026-11-28T17:26:58.687Z","service":"server","env":"development","msg":"✅ Server running at http://localhost:5001 in development mode"}
+{"level":"info","time":"2026-11-28T17:27:11.288Z","service":"server","env":"development","msg":"SIGINT received, shutting down gracefully…"}
+{"level":"info","time":"2026-11-28T17:27:11.292Z","service":"server","env":"development","msg":"HTTP server closed"}
+{"level":"info","time":"2026-11-28T17:27:11.292Z","service":"server","env":"development","msg":"Shutdown complete"}
+{"level":"info","time":"2026-11-28T17:30:05.936Z","service":"server","env":"development","msg":"✅ Server running at http://localhost:5001 in development mode"}
+{"level":"info","time":"2026-11-28T17:30:16.401Z","service":"server","env":"development","msg":"SIGINT received, shutting down gracefully…"}
+{"level":"info","time":"2026-11-28T17:30:16.404Z","service":"server","env":"development","msg":"HTTP server closed"}
+{"level":"info","time":"2026-11-28T17:30:16.404Z","service":"server","env":"development","msg":"Shutdown complete"}
